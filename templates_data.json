@@ -1,0 +1,22 @@
+{
+    "_default": {
+        "1": {
+            "title": "User profile",
+            "username": "email",
+            "mobile": "phone"
+        },
+        "2": {
+            "title": "Delivery form",
+            "client_name": "string",
+            "order_number": "string",
+            "delivery_date": "date",
+            "support_phone": "phone"
+        },
+        "3": {
+            "title": "Support request",
+            "email": "email",
+            "phone": "phone",
+            "issue_date": "date"
+        }
+    }
+}
